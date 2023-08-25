@@ -1,16 +1,15 @@
-# mindcraft_app
+# Login App
 
-A new Flutter project.
+ Login App Assignment:
 
-## Getting Started
+App Video Demo:
 
-This project is a starting point for a Flutter application.
+https://github.com/kasim121/login_app_assignment/assets/53419295/0c06b23a-dbe5-4537-874b-2f9d7549ae20
 
-A few resources to get you started if this is your first Flutter project:
+App Screenshots:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![WhatsApp Image 2023-08-26 at 3 26 17 AM](https://github.com/kasim121/login_app_assignment/assets/53419295/18535e2a-9613-4afe-aab8-48062d857cab)
+![WhatsApp Image 2023-08-26 at 3 26 16 AM](https://github.com/kasim121/login_app_assignment/assets/53419295/16ae6b9e-dbd8-4270-a874-ba05873a2ab3)
+![WhatsApp Image 2023-08-26 at 3 26 15 AM](https://github.com/kasim121/login_app_assignment/assets/53419295/23ee3a29-c172-48a5-9191-e4d4cb9f14c7)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
